@@ -8,7 +8,7 @@ One of the best/most-nurturing hobbies one can have is reading books. However, i
 
 Resources:
 * Original dataset: https://www.kaggle.com/justinnguyen0x0x/best-books-of-the-21st-century-dataset
-* Cleaning script:
+* Cleaning script: https://github.com/Paola-Madrigal/Judging_a_book_by_its_data/blob/main/1-preprocessing-best-books.ipynb
 * Clean dataset:
 * Analysis script:
 
